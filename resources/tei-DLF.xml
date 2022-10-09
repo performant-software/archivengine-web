@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title type="full">
+					<title type="main">2-22-1943 WAAC</title>
+				</title>
+				<author/>
+			</titleStmt>
+			<editionStmt>
+				<edition>Edition created from new transcripts of this manuscript.</edition>
+				<respStmt xml:id="AU216679">
+					<resp>Initial upload of this work's facsimile images and metadata to FromThePage for editing</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="OU216679">
+					<resp>Administrator of the Ann Smith Letters transcription project on FromThePage</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="U31858">
+					<persName>Bilabial</persName>
+					<resp>made 2 edits between <date type="first_edit" when="2020-02-10T18:23:38Z">February 10, 2020</date> and <date type="last_edit" when="2020-02-10T18:27:36Z">February 10, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U669">
+					<persName>vant</persName>
+					<resp>made 2 edits between <date type="first_edit" when="2020-07-09T05:12:43Z">July 9, 2020</date> and <date type="last_edit" when="2020-07-09T05:13:00Z">July 9, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U217894">
+					<persName>mimistach</persName>
+					<resp>made 2 edits between <date type="first_edit" when="2020-07-12T18:50:24Z">July 12, 2020</date> and <date type="last_edit" when="2020-07-12T18:50:29Z">July 12, 2020</date>.</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Dynamic TEI export from FromThePage (version 21.1)</publisher>
+				<availability>
+					<p/>
+				</availability>
+				<ref>
+					<date when="2022-10-09T14:24:00+00:00">October 9, 2022</date>
+				</ref>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<collection>Ann Smith Letters</collection>
+					</msIdentifier>
+					<physDesc>
+						<p/>
+					</physDesc>
+					<history>
+						<origin/>
+						<provenance/>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<listChange ordered="true">
+				<change target="#P705603" when="2020-07-12T18:50:29Z" who="U217894" xml:id="CHG7">Version 5 of page "2": Changes to page transcript.</change>
+				<change target="#P705603" when="2020-07-12T18:50:24Z" who="U217894" xml:id="CHG6">Version 4 of page "2": Changes to page transcript.</change>
+				<change target="#P705603" when="2020-07-09T05:13:00Z" who="U669" xml:id="CHG5">Version 3 of page "2": Changes to page transcript.</change>
+				<change target="#P705603" when="2020-07-09T05:12:43Z" who="U669" xml:id="CHG4">Version 2 of page "2": Changes to page transcript.</change>
+				<change target="#P705603" when="2020-02-10T18:27:36Z" who="U31858" xml:id="CHG3">Version 1 of page "2": Changes to page transcript.</change>
+				<change target="#P705602" when="2020-02-10T18:23:38Z" who="U31858" xml:id="CHG2">Version 1 of page "1": Changes to page transcript.</change>
+				<change target="#P705603" when="2020-01-18T20:13:04Z" who="U216679" xml:id="CHG1">Version 0 of page "2": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705602" when="2020-01-18T20:13:04Z" who="U216679" xml:id="CHG0">Version 0 of page "1": Empty transcript -- probably initial upload of page facsimile.</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:id="Letter">
+		<body>
+			<pb facs="https://fromthepage.com/image-service/705602/full/full/0/native.jpg" n="1" xml:id="F705602"/>
+			<div xml:id="OTP705602">
+				<fw type="pageNum">1</fw>
+				<p xml:id="OTP705602P0">[Postmark] OGLETHORPE GA 1943<lb/> Feb 2 3:30PM</p>
+				<p xml:id="OTP705602P1">THIS SIDE OF CARD FOR ADDRESS</p>
+				<p xml:id="OTP705602P2">Mrs. G. W. Carlstead<lb/> 1102 Dillon Drive<lb/> St Louis<lb/> Mo.</p>
+			</div>
+			<pb facs="https://fromthepage.com/image-service/705603/full/full/0/native.jpg" n="2" xml:id="F705603"/>
+			<div xml:id="OTP705603">
+				<fw type="pageNum">2</fw>
+				<p xml:id="OTP705603P0">Dear Kids Sunday<lb/> It was so pretty today<lb/> I wished for the boys<lb/> so I could take them<lb/> outside. Did you have a<lb/> good time on your trip? <lb/> How was Grandma? Write<lb/> + tell me all the news. <lb/> Please send the following<lb/> Watch - I need it so bad.<lb/> At least 6 wire coat hangers<lb/> Faultless starch. My garters <lb/> + some candy, cake or some<lb/> thing to eat. Have G.W. take<lb/> my clothes over + tell Mildred<lb/> to put them in cedar chest. <lb/> Everything that was in my<lb/> suitcase. Write often + <lb/> tell gang to write. <lb/> Tell Helen the same.<lb/> Love<lb/> Mother</p>
+			</div>
+		</body>
+	</text>
+	<facsimile sameAs="https://fromthepage.com/iiif/21474/manifest" xml:id="iiif21474manifest">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="4000" lry="3000" sameAs="https://fromthepage.com/iiif/21474/canvas/705602">
+			<label>1</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705602"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21474/canvas/705603">
+			<label>2</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705603"/>
+		</surface>
+	</facsimile>
+	<standOff xml:id="People">
+		<bibl/>
+	</standOff>
+</TEI>
