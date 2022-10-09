@@ -75,7 +75,7 @@
 			<div xml:id="OTP705560">
 				<fw type="pageNum">1</fw>
 				<opener>
-					<dateline>Fort Des Moines, Ia.<lb/> Monday</dateline>
+					<dateline><name sameAs="#city">Fort Des Moines</name>, Ia.<lb/> <date>Monday</date></dateline>
 				</opener>
 				<opener>
 					<salute>Dear Kids<lb break="no"/></salute>
@@ -90,7 +90,7 @@
 				<closer>
 					<signed>Mother</signed>
 				</closer>
-				<closer>Aux. <name>Ann Smith</name><lb/> Co. 2. Reg. 3<lb/> <name sameAs="#org">First WAAC Training Center</name><lb/>Fort Des Moines Iowa</closer>
+				<closer>Aux. <name>Ann Smith</name><lb/> <name sameAs="#address">Co. 2. Reg. 3<lb/></name><name sameAs="#org">First WAAC Training Center</name><name sameAs="#city"><lb/>Fort Des Moines Iowa</name></closer>
 			</div>
 		</body>
 	</text>
@@ -111,15 +111,21 @@
 			</person>
 		</listPerson>
 	</standOff>
-	<text xml:id="Place">
+	<text xml:id="City">
 		<body>
-			<p/>
+			<listPlace>
+				<place>
+					<placeName xml:id="city"/>
+				</place>
+			</listPlace>
 		</body>
 	</text>
 	<standOff xml:id="Address">
 		<listPlace>
-			<place>
-				<placeName/>
+			<place xml:id="place">
+				<location xml:id="address">
+					<geo/>
+				</location>
 			</place>
 		</listPlace>
 	</standOff>
