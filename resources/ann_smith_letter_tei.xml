@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title type="full">
+					<title type="main">2-15-1943 WAAC</title>
+				</title>
+				<author/>
+			</titleStmt>
+			<editionStmt>
+				<edition>Edition created from new transcripts of this manuscript.</edition>
+				<respStmt xml:id="AU216679">
+					<resp>Initial upload of this work's facsimile images and metadata to FromThePage for editing</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="OU216679">
+					<resp>Administrator of the Ann Smith Letters transcription project on FromThePage</resp>
+					<persName>Josie Brumfield</persName>
+				</respStmt>
+				<respStmt xml:id="U217894">
+					<persName>mimistach</persName>
+					<resp>made 8 edits between <date type="first_edit" when="2020-06-22T17:15:46Z">June 22, 2020</date> and <date type="last_edit" when="2020-06-22T17:35:43Z">June 22, 2020</date>.</resp>
+				</respStmt>
+				<respStmt xml:id="U31858">
+					<persName>Bilabial</persName>
+					<resp>made 5 edits between <date type="first_edit" when="2020-02-10T05:08:41Z">February 10, 2020</date> and <date type="last_edit" when="2020-02-10T05:25:10Z">February 10, 2020</date>.</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Dynamic TEI export from FromThePage (version 21.1)</publisher>
+				<availability>
+					<p/>
+				</availability>
+				<ref>
+					<date when="2022-10-09T13:48:42+00:00">October 9, 2022</date>
+				</ref>
+			</publicationStmt>
+			<sourceDesc>
+				<msDesc>
+					<msIdentifier>
+						<collection>Ann Smith Letters</collection>
+					</msIdentifier>
+					<physDesc>
+						<p/>
+					</physDesc>
+					<history>
+						<origin/>
+						<provenance/>
+					</history>
+				</msDesc>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="eng">English</language>
+			</langUsage>
+		</profileDesc>
+		<revisionDesc>
+			<listChange ordered="true">
+				<change target="#P705600" when="2020-06-22T17:35:43Z" who="U217894" xml:id="CHG17">Version 3 of page "4": Changes to page transcript.</change>
+				<change target="#P705600" when="2020-06-22T17:35:39Z" who="U217894" xml:id="CHG16">Version 2 of page "4": Changes to page transcript.</change>
+				<change target="#P705599" when="2020-06-22T17:28:53Z" who="U217894" xml:id="CHG15">Version 3 of page "3": Changes to page transcript.</change>
+				<change target="#P705599" when="2020-06-22T17:28:49Z" who="U217894" xml:id="CHG14">Version 2 of page "3": Changes to page transcript.</change>
+				<change target="#P705598" when="2020-06-22T17:23:43Z" who="U217894" xml:id="CHG13">Version 3 of page "2": Changes to page transcript.</change>
+				<change target="#P705598" when="2020-06-22T17:23:38Z" who="U217894" xml:id="CHG12">Version 2 of page "2": Changes to page transcript.</change>
+				<change target="#P705597" when="2020-06-22T17:15:51Z" who="U217894" xml:id="CHG11">Version 3 of page "1": Changes to page transcript.</change>
+				<change target="#P705597" when="2020-06-22T17:15:46Z" who="U217894" xml:id="CHG10">Version 2 of page "1": Changes to page transcript.</change>
+				<change target="#P705601" when="2020-02-10T05:25:10Z" who="U31858" xml:id="CHG9">Version 1 of page "5": Changes to page transcript.</change>
+				<change target="#P705600" when="2020-02-10T05:23:32Z" who="U31858" xml:id="CHG8">Version 1 of page "4": Changes to page transcript.</change>
+				<change target="#P705599" when="2020-02-10T05:19:03Z" who="U31858" xml:id="CHG7">Version 1 of page "3": Changes to page transcript.</change>
+				<change target="#P705598" when="2020-02-10T05:14:54Z" who="U31858" xml:id="CHG6">Version 1 of page "2": Changes to page transcript.</change>
+				<change target="#P705597" when="2020-02-10T05:08:41Z" who="U31858" xml:id="CHG5">Version 1 of page "1": Changes to page transcript.</change>
+				<change target="#P705601" when="2020-01-18T20:13:02Z" who="U216679" xml:id="CHG4">Version 0 of page "5": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705600" when="2020-01-18T20:13:02Z" who="U216679" xml:id="CHG3">Version 0 of page "4": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705599" when="2020-01-18T20:13:01Z" who="U216679" xml:id="CHG2">Version 0 of page "3": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705598" when="2020-01-18T20:13:00Z" who="U216679" xml:id="CHG1">Version 0 of page "2": Empty transcript -- probably initial upload of page facsimile.</change>
+				<change target="#P705597" when="2020-01-18T20:13:00Z" who="U216679" xml:id="CHG0">Version 0 of page "1": Empty transcript -- probably initial upload of page facsimile.</change>
+			</listChange>
+		</revisionDesc>
+	</teiHeader>
+	<text xml:id="import-1665323411009">
+		<body>
+			<pb facs="#f000" n="1" xml:id="F705597"/>
+			<div xml:id="OTP705597">
+				<fw type="pageNum">1</fw>
+				<dateline>
+					<name type="place">Fort Oglethorpe <lb/> Georgia</name>
+				</dateline>
+				<dateline>I <lb/> Sat. Night</dateline>
+				<opener>Dear Kids<lb/></opener>
+				<p>At last some of my mail has <lb/> caught up with me. That was the cutest<lb/> card. All of the girls got a big kick out <lb/> of it. My Lt. laughted until she cried. There are<lb/> 10 of us girls working together as cadre for<lb/> Co. 5 + yesterday morning we didn't have to get<lb/> up except to be at breakfast at 7 and the<lb/> night before one of the girls was sick +<lb/> we were up with her until we could get an <lb/> ambulance + send her to the hospital and<lb/> didn't any of us wake up the next morning<lb/> so therefore we went without breakfast.<lb/> I sure like it here + I like the work so much <lb/> better. Lots of fun. We will just have the<lb/> new recruits two days and send them on<lb/> over to South Post. We take them to<lb/> get their shots, clothes, show them how to<lb/> make beds, salute, stand at attention.<lb/> In other words we get to raise H--L with<lb/> them first + make them do the dirty work<lb/> in the barracks.<lb/> (over)</p>
+			</div>
+			<pb facs="#f001" n="2" xml:id="F705598"/>
+			<div xml:id="OTP705598">
+				<fw type="pageNum">2</fw>
+				<p xml:id="OTP705598P0">2</p>
+				<p xml:id="OTP705598P1">Some take it swell. Others cry. Some cuss<lb/> a little but we just laugh at them and<lb/> we are all acting corporals + will have our<lb/> stripes next week but won't get any increase <lb/> in pay for a while. Some kind of a <lb/> mix up. I don't know just what. <lb/> This is Saturday night but someone <lb/> had to stay as C.Q. (charge of quarters)<lb/> so I said I would as I didn't have<lb/> anything special to do. Three of the<lb/> kids went to <name type="place">Chattanooga Tenn</name> + saw<lb/> a show + came back. Said they didn't<lb/> want me to be by myself. So we are all<lb/> writing letters. I made my check on all<lb/> of the barracks. I mean the four that<lb/> we have + the supply house. So now I <lb/> am through for the night except keep<lb break="no"/>ing the fires. You would get a big kick<lb/> if you could see our quarters. Our part<lb/> is an old <name type="organization">CCC</name> Camp. Stove heat and baths<lb/> + toilet in a building back of our sleeping<lb/> quarters. But they are fixing it up + it is<lb/> going to be nice. Say Oh! Boy is it nice<lb/> here. Little chilly here today but it<lb/> has been swell. Nice + warm.</p>
+			</div>
+			<pb facs="#f002" n="3" xml:id="F705599"/>
+			<div xml:id="OTP705599">
+				<fw type="pageNum">3</fw>
+				<dateline>
+					<name type="place">Fort Oglethorpe<lb/> Georgia</name>
+					<lb/>
+				</dateline>
+				<p>-3<lb break="no"/>How are the boys + what are they doing?<lb/> I sure would like to see them. Every<lb/> time <name type="person">Louis </name>writes he asks about them. <lb/> He is still in <name type="place">New Mexico</name>. How is <name type="person">G.W.</name> ?<lb/> I had a letter from <name type="person">Mike</name>. Said he saw<lb/> <name type="person">G.W.</name> and he sent me the clipping out<lb/> of the paper and <name type="person">Mr. Kirk</name> sent me the<lb/> paper. <name type="person">Mrs. Stella</name> sent me the cutest <lb/> valentine. <name type="person">Joe </name>has his Corporal's stripes.<lb/> I would have sent the kids some valentines<lb/> but couldn't buy any on the post + I<lb/> didn't get to go to wotn. When have<lb/> you see <name type="person">Al</name>? I have never got his<lb/> address. <lb/> I am sending you the key to my<lb/> suitcase. Open it and take out your <lb/> picture + the boys. Get me another<lb/> folder for your + <name type="person">GW's</name> picture + send<lb/> them to me by return mail. There is<lb/> a pair of stockings in there that I wore<lb/> You can take them out + have them clean</p>
+			</div>
+			<pb facs="#f003" n="4" xml:id="F705600"/>
+			<div xml:id="OTP705600">
+				<fw type="pageNum">4</fw>
+				<p xml:id="OTP705600P0">if you want them. But don't use my<lb/> other ones. I'm not going to ever make<lb/> plans to come home again. I'll just<lb/> wait + when I get a chance I'll come.<lb/> I'll tell you this + so help me it is <lb/> the truth. I am perfectly happy<lb/> + satisfied. I have gained 5 1/2 lbs but<lb/> have lost my beer tummy.<lb/> How is my shadow and why don't she<lb/> write? I'll be kicking her teeth in one<lb/> of these days. What is the matter with <lb/> <name type="person">Norma</name>? She has never written to me. <lb/> Some of these Sundays when you feel<lb/> good how about making me a cake. <lb/> Apple sauce. I mean. I bet we sure<lb/> would enjoy it. <lb/> Well kids guess I had better quit <lb/> scribbling + call it a day for I think<lb/> I have done quite well. Don't you<lb/> think so? Tell <name type="person">Boehn </name>he is going to<lb/> catch h..l + I don't mean maybe. <lb/></p>
+				<closer>Love to you all. Big hug + kiss for <lb/> <name type="person">Jimmy </name>+ <name type="person">Jerry </name></closer>
+				<signed>_______ From Mom Mom<lb/> Mother</signed>
+			</div>
+			<pb facs="#f004" n="5" xml:id="F705601"/>
+			<div xml:id="OTP705601">
+				<fw type="pageNum">5</fw>
+				<p xml:id="OTP705601P0"><name type="person">Aux Ann Smith</name><lb/> A.S.N - A700158<lb/> 5th Co. Rec. B[?]<lb/> <name type="place">3rd WAAC Trg Cen</name><lb/> <name type="place">Fort Oglethorpe Ga</name></p>
+				<p xml:id="OTP705601P1">[Postmark] <name type="place">Fort Oglethorpe GA</name> <date>Feb 5 3:30PM 1943</date></p>
+				<p xml:id="OTP705601P2"><name type="person">Mrs. G. W. Carlstead</name><lb/> <name type="place">1102 Dillon Dr.<lb/> St. Louis <lb/> Mo</name>.</p>
+			</div>
+		</body>
+	</text>
+	<standOff xml:id="people">
+		<listPerson>
+			<person>
+				<affiliation/>
+				<persName>Jimmy</persName>
+			</person>
+		</listPerson>
+	</standOff>
+	<facsimile sameAs="https://fromthepage.com/iiif/21473/manifest" xml:id="images_manifest">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21473/canvas/705597">
+			<label>1</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705597"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21473/canvas/705598">
+			<label>2</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705598"/>
+		</surface>
+		<surface xml:id="f002" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21473/canvas/705599">
+			<label>3</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705599"/>
+		</surface>
+		<surface xml:id="f003" ulx="0" uly="0" lrx="3000" lry="4000" sameAs="https://fromthepage.com/iiif/21473/canvas/705600">
+			<label>4</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705600"/>
+		</surface>
+		<surface xml:id="f004" ulx="0" uly="0" lrx="4000" lry="3000" sameAs="https://fromthepage.com/iiif/21473/canvas/705601">
+			<label>5</label>
+			<graphic mimeType="application/json" url="https://fromthepage.com/image-service/705601"/>
+		</surface>
+	</facsimile>
+</TEI>
